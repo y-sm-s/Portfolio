@@ -1,6 +1,6 @@
 # Mon Portfolio de Projets
 
-Bienvenue dans mon portfolio de projets sur GitHub ! Voici une sélection de mes travaux récents, chacun abordant des problématiques différentes à travers l'analyse de données et l'apprentissage automatique.
+Bienvenue dans mon portfolio de projets sur GitHub ! Voici une sélection de mes travaux récents sur DataCamp, chacun abordant des problématiques différentes à travers l'analyse de données et l'apprentissage automatique.
 
 ## Sommaire
 1. [Analyse Statistique des Buts dans le Football International](#projet-1-analyse-statistique-des-buts-dans-le-football-international)
