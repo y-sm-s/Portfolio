@@ -4,11 +4,11 @@ Bienvenue dans mon portfolio de projets sur GitHub ! Voici une sélection de mes
 
 ## Sommaire
 1. [Analyse Statistique des Buts dans le Football International](#projet-1-analyse-statistique-des-buts-dans-le-football-international)
-2. [Modélisation des Résultats des Réclamations d'Assurance Automobile](#projet-2-modélisation-des-résultats-des-réclamations-dassurance-automobile)
-3. [Exploration des Tendances du Marché Airbnb](#projet-3-exploration-des-tendances-du-marché-airbnb)
-4. [Optimisation des Données Clients pour la Modélisation Prédictive](#projet-4-optimisation-des-données-clients-pour-la-modélisation-prédictive)
-5. [Détective de Données - Analyse de la Criminalité à Los Angeles](#projet-5-détective-de-données-analyse-de-la-criminalité-à-los-angeles)
-6. [Exploration Visuelle de l'Histoire des Lauréats du Prix Nobel](#projet-6-exploration-visuelle-de-lhistoire-des-lauréats-du-prix-nobel)
+2. [Modélisation des Résultats des Réclamations d'Assurance Automobile](#projet-2-modelisation-des-resultats-des-reclamations-dassurance-automobile)
+3. [Exploration des Tendances du Marché Airbnb](#projet-3-exploration-des-tendances-du-marche-airbnb)
+4. [Optimisation des Données Clients pour la Modélisation Prédictive](#projet-4-optimisation-des-donnees-clients-pour-la-modelisation-predictive)
+5. [Détective de Données - Analyse de la Criminalité à Los Angeles](#projet-5-detective-de-donnees-analyse-de-la-criminalite-a-los-angeles)
+6. [Exploration Visuelle de l'Histoire des Lauréats du Prix Nobel](#projet-6-exploration-visuelle-de-lhistoire-des-laureats-du-prix-nobel)
 
 ---
 
